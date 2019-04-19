@@ -39,5 +39,6 @@ end
 def play(board)
   spots = 0
   until spot == 9
+    turn(board)
   end
 end
