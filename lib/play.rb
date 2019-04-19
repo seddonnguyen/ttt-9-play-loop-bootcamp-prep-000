@@ -37,4 +37,7 @@ end
 
 # Define your play method below
 def play(board)
+  spots = 0
+  until spot == 9
+  end
 end
